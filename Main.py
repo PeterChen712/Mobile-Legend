@@ -2,7 +2,7 @@ import pygame
 import time
 import random
 from abc import ABC, abstractclassmethod
-from classnya import Layla, Miya, Fanny, Yin, Uranus, Belerick, Sun, Martis, Estes, Gord
+from Class import Layla, Miya, Fanny, Yin, Uranus, Belerick, Sun, Martis, Estes, Gord
 
 
 class TextColor:

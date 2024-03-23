@@ -14,7 +14,7 @@ class TextColor:
     ENDC = '\033[0m'
 
 
-''' BATAS CLASS Rudy'''
+''' BATAS CLASS'''
 
 
 def status_player_1(pemain_1):

@@ -1,7 +1,7 @@
 import pygame
 import time
 import random
-from abc import ABC, abstractclassmethod
+from abc import ABC, abstractclassmethod #abstract sudah tidak disarankan
 
 def Audio(path_audio):
     pygame.mixer.init()
@@ -82,6 +82,7 @@ class Hero(ABC):
     @abstractclassmethod
     def Ulti(self):
         pass
+
 
 
 
